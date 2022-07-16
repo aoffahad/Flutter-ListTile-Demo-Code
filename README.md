@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img src ="https://github.com/aoffahad/Flutter-ListTile-Demo-Code/blob/main/output/flutter%20code%20output.png" alt="Output"/>
 
 A few resources to get you started if this is your first Flutter project:
 
